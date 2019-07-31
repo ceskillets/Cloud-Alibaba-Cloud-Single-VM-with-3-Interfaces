@@ -20,6 +20,7 @@ extends:
 labels:
   collection:
     - Cloud-Alibaba-Cloud-Single-VM-with-3-Interfaces
+    - Alibaba-Cloud
   terraform_provider: alicloud
 
 
